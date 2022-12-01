@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elghiffari28
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning 3D Design in Blender
+- 🌱 I’m currently learning Front-End & Back-End Javascript
 - 📫 How to reach me elbag467@gmail.com
 
 <p align="left">
