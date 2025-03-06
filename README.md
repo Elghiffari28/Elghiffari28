@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elghiffari28
+- 👋 Hi, I’m Elba Ghiffari Fitrasina
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Front-End & Back-End Javascript
 - 📫 How to reach me elbag467@gmail.com
