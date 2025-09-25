@@ -7,17 +7,17 @@
 - 📫 How to reach me elbag467@gmail.com
 
   ## 🚀 Tech Stack
-  Backend: Node.js, PHP
-  Frontend: (coming soon 😉)
-  Database: MySQL, Sequelize
+  - Backend: Node.js, PHP
+  - Frontend: (coming soon 😉)
+  - Database: MySQL, Sequelize
 
   ## 🌱 Currently Learning
-  Next.js & Tailwind
-  Go (just for fun)
+  - Next.js & Tailwind
+  - Go (just for fun)
 
   ## ☕ Fun Fact
-  Fueled by coffee and late-night coding sessions ✨
-  I like dinosaurs! 🦕
+  - Fueled by coffee and late-night coding sessions ✨
+  - I like dinosaurs! 🦕
 
 
 
