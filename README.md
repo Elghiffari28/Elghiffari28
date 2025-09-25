@@ -4,7 +4,7 @@
 - 📫 How to reach me elbag467@gmail.com
 
 
-<img src"https://readme-typing-svg.demolab.com?font=Bitcount+Ink&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Elba;Hey+there!+I'm+a+web+developer+who+enjoys+coding+with+++%E2%9C%A8+**Node.js**+%26+**PHP**+%E2%9C%A8+;Always+curious%2C+always+building." width="70%" />
+<img src"https://readme-typing-svg.demolab.com?font=Bitcount+Ink&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Elba;Hey+there!+I'm+a+web+developer+who+enjoys+coding+with+++%E2%9C%A8+**Node.js**+%26+**PHP**+%E2%9C%A8+;Always+curious%2C+always+building" width="70%" />
 <br><br>
 
 
