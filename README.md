@@ -4,7 +4,7 @@
 - 📫 How to reach me elbag467@gmail.com
 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elghiffari28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true](https://readme-typing-svg.demolab.com/demo/?font=Bitcount+Ink&center=true&multiline=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Elba;I'm+a+web+developer%2C;currently+working+with+Node.js+and+PHP.;Always+curious%2C+always+building"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Ink&pause=1000&center=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Elba;I'm+a+web+developer%2C;currently+working+with+Node.js+and+PHP.;Always+curious%2C+always+building." alt="Typing SVG" /></a>
 <br><br>
 
 
