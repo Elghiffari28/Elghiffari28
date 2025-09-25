@@ -1,11 +1,23 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&size=40&pause=1000&color=0FF725&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=%F0%9F%91%8B+Hi%2C+I'm+Elba;I'm+a+web+developer%2C;Currently+working+with+Node.js+and+PHP.;Always+curious%2C+always+building." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&size=40&duration=3000&pause=1000&color=F7D920&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=%F0%9F%91%8B+Hi%2C+I'm+Elba;I'm+a+full-stack+developer+%F0%9F%9A%80;%F0%9F%9A%80+Node.js+is+my+jam!+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
 <br><br>
 
 - 👋 Hi, I’m Elba Ghiffari Fitrasina
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Front-End & Back-End Javascript
 - 📫 How to reach me elbag467@gmail.com
+
+  ## 🚀 Tech Stack
+  Backend: Node.js, PHP
+  Frontend: (coming soon 😉)
+  Database: MySQL, Sequelize
+
+  ## 🌱 Currently Learning
+  Next.js & Tailwind
+  Go (just for fun)
+
+  ## ☕ Fun Fact
+  Fueled by coffee and late-night coding sessions ✨
+  I like dinosaurs! 🦕
 
 
 
